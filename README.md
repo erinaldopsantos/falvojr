@@ -2,20 +2,23 @@
 
 TODO: Resuma brevemente seu perfil.
 
-Basileiro, casado e tenho uma filha de 01 ano. 
+Brasileiro, casado e tenho uma filha de 01 ano. Atualmente Embaixador(a) Universitário Campus Dio Expert Turma 13, Paricipante| aluno Programa Hackers do Bem.
+cursando MBA Executivo em Segurança Privada: Safety & Security, Pós-Graduação Pericia Judicial, Períca Grafotécnica - Curso Beta Online. 
 
 ## 🏢 Atuação Profissional 
+
 Segurança Privada
 
 - TODO: Liste suas experiências profissionais.
-  Vigilante, Vigilante de Segurança Pessoal Privada VSPP, Op. de Drone, Op. de Video monitoramento CFTV, Op. de Microcomputador
+  Vigilante, Vigilante de Segurança Pessoal Privada VSPP, Op. de Drone, Op. de Video monitoramento CFTV, Controlador| Porteiro, Op. de Microcomputador
 
 ## 📱 Especialidades 
 Possuo Pós-graduação com Titulo de Especialista Psicologia Organizaciol e do Trabalho
 Pós-graduação com o Título de Tecnologo em Gestão de Recursos Humanos.
 
 - TODO: Liste suas Habilidades Ténicas.
-💼 Competências Técnicas
+  
+💼 Competências Técnicas: 
 
 Diagnóstico organizacional, clima e cultura.
 

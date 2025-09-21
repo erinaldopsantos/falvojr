@@ -6,8 +6,7 @@ Brasileiro, casado e tenho uma filha de 01 ano.
 
 Segurança Privada
 
-- TODO: Liste suas experiências profissionais.
-  Vigilante, Vigilante de Segurança Pessoal Privada VSPP, Op. de Drone, Op. de Video monitoramento CFTV, Controlador| Porteiro, Op. de Microcomputador
+Vigilante, Vigilante de Segurança Pessoal Privada VSPP, Op. de Drone, Op. de Video monitoramento CFTV, Controlador| Porteiro, Op. de Microcomputador
 
 ## 📱 Especialidades 
 

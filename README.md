@@ -1,6 +1,7 @@
 # Olá! Eu sou {Erinaldo Pereira Santos} ({erinaldopsantos}) 
 
-Brasileiro, casado e tenho uma filha de 01 ano.
+Brasileiro, casado e tenho uma filha de 01 ano. 
+Me considero uma pessoas esforçada, dedicada e determinada, sempre em busca de conhecimento e apredizado constante, Atualmente em transição de carreira.
 
 ## 🏢 Atuação Profissional 
 

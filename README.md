@@ -1,16 +1,20 @@
 # Olá! Eu sou {Erinaldo Pereira Santos} ({erinaldopsantos}) 
-Brasileiro, casado e tenho uma filha de 01 ano. 
-Me considero uma pessoas esforçada, dedicada e determinada, sempre em busca de conhecimento e apredizado constante, Atualmente em transição de carreira.
+Brasileiro, casado, residente no B. Sto Antônio na Cidade de Louveira SP.
+
+ Atualmente em transição de carreira.
+ 
 ## 🏢 Atuação Profissional 
 Vigilante/Porteiro Controlador 
 Segurança Privada
 Vigilante, Vigilante de Segurança Pessoal Privada VSPP, Op. de Drone, Op. de Video monitoramento CFTV, Controlador| Porteiro, Op. de Microcomputador
+
 ## 📱 Especialidades 
-Pós graduação em Perícia Judicial 4.0
-🧑🏻‍🎓 MBA em Segurança Privada: Safety & Security 
+Cursando Pós graduação em Perícia Judicial 4.0
+MBA em Segurança Privada: Safety & Security 
 Cursando Administração 8°Semestre
 Possuo Pós-graduação com Titulo de Especialista Psicologia Organizaciol e do Trabalho
 Pós-graduação com o Título de Tecnologo em Gestão de Recursos Humanos.
+
 💼 Competências Técnicas: 
 Diagnóstico organizacional, clima e cultura.
 

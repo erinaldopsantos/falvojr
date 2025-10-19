@@ -1,4 +1,4 @@
-# Olá! Eu sou {Erinaldo Pereira Santos} ({erinaldopsantos}) 
+# Olá! Eu sou Erinaldo Pereira Santos 
 Brasileiro, casado, residente no B. Sto Antônio na Cidade de Louveira SP.
 
  Atualmente em transição de carreira.

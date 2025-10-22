@@ -1,11 +1,10 @@
 # Olá! Eu sou Erinaldo Pereira Santos 
-Brasileiro, casado, residente no B. Sto Antônio na Cidade de Louveira SP.
+Brasileiro, casado, residente na Cidade de Louveira SP.
 
  Atualmente em transição de carreira.
  
-## 🏢 Atuação Profissional 
-Vigilante/Porteiro Controlador 
-Segurança Privada
+## 🏢 Atuação Profissional  
+Segurança Privada:
 Vigilante, Vigilante de Segurança Pessoal Privada VSPP, Op. de Drone, Op. de Video monitoramento CFTV, Controlador| Porteiro, Op. de Microcomputador
 
 ## 📱 Especialidades 
